@@ -3,7 +3,7 @@ import './PokeShow.css'
 
 function PokeShow(){
     return (
-        <div className="pokeShowContainer">PokeShow</div>
+        <div className="pokeShowContainer"></div>
     )
 }
 
