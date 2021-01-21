@@ -1,8 +1,9 @@
 import React from 'react'
+import './PokeShow.css'
 
 function PokeShow(){
     return (
-        <div>PokeShow</div>
+        <div className="pokeShowContainer">PokeShow</div>
     )
 }
 
