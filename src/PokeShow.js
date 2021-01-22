@@ -46,7 +46,8 @@ function PokeShow(){
             </div>
             <img 
                 className="pokeImg" 
-                src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png'>
+                src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png'
+                alt="poke">    
             </img>
         </div>
     )
