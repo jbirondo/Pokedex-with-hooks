@@ -36,6 +36,14 @@ function PokeShow(){
                 className="pokeSPD">
                 SPD : 55
             </div>
+            <div
+                className="pokeSATK">
+                SpecATK : 25
+            </div>
+            <div
+                className="pokeSDEF">
+                SpecDEF : 45
+            </div>
             <img 
                 className="pokeImg" 
                 src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png'>
