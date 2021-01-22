@@ -10,7 +10,7 @@ function PokeShow(){
             </div>
             <div
                 className="pokeType">
-                Normal
+                Type :  Normal
             </div>
             <img 
                 className="pokeImg" 

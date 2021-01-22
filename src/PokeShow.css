@@ -7,6 +7,26 @@
     position: absolute;
     height: 300px;
     width: 300px;
-    top: 25%;
-    left: 25%;
+    top: 20%;
+    left: 15%;
 }
+
+.pokeName{
+    position: absolute;
+    height: 100px;
+    width: 300px;
+    top: 2%;
+    right: 22%;
+    font-size: 40px;
+    color: white;
+}
+
+.pokeType {
+    position: absolute;
+    height: 100px;
+    width: 500px;
+    top: 16%;
+    right: 22%;
+    font-size: 40px;
+}
+
