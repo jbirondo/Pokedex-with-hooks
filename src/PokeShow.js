@@ -6,6 +6,11 @@ function PokeShow(){
         <div className="pokeShowContainer">
             <div 
                 className="pokeName">
+                506 Lillipup
+            </div>
+            <div
+                className="pokeType">
+                Normal
             </div>
             <img 
                 className="pokeImg" 
