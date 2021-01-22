@@ -19,6 +19,7 @@
     right: 22%;
     font-size: 40px;
     color: white;
+    text-align: left;
 }
 
 .pokeType {
@@ -28,5 +29,6 @@
     top: 16%;
     right: 22%;
     font-size: 40px;
+    text-align: left;
 }
 
