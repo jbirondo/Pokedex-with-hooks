@@ -2,3 +2,11 @@
     background: url(https://i.redd.it/6rfofno9nb811.png) center center / cover no-repeat fixed;
     height: 100vh
 }
+
+.pokeImg {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 25%;
+    left: 25%;
+}
