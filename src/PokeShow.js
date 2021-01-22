@@ -12,6 +12,30 @@ function PokeShow(){
                 className="pokeType">
                 Type(s) :  Normal
             </div>
+            <div
+                className="pokeWT">
+                WT : 41
+            </div>
+            <div
+                className="pokeHT">
+                HT : 4
+            </div>
+            <div
+                className="pokeHP">
+                HP : 45
+            </div>
+            <div
+                className="pokeATK">
+                ATK : 60
+            </div>
+            <div
+                className="pokeDEF">
+                DEF : 45
+            </div>
+            <div
+                className="pokeSPD">
+                SPD : 55
+            </div>
             <img 
                 className="pokeImg" 
                 src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png'>
