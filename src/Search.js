@@ -1,14 +1,17 @@
-import React from 'react'
+import React, { useState }from 'react'
 import './Search.css'
 
 function Search(){
+    const [searchValue, handleSearchValue] = useState("")
+
     return (
         <input 
+            onChange={e => handleSearchValue(e.target.value)}
             className="searchBar" 
-            type="search" 
-            placeholder="Type a name or a pokemon number">
-
-        </input>
+            type="text" 
+            placeholder="Type a name or a pokemon number"
+            value={searchValue}
+        />
     )
 }
 
